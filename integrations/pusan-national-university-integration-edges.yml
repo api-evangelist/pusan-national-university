@@ -1,0 +1,16 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/pusan-national-university/integrations
+- https://n8n.io/integrations/pusan-national-university/
+- https://composio.dev/toolkits/pusan-national-university
+- https://monid.ai/tools/pusan-national-university
+checked:
+- https://composio.dev/toolkits/pusan-national-university
+- https://monid.ai/tools/pusan-national-university
+- https://n8n.io/integrations/pusan-national-university/
+- https://zapier.com/apps/pusan-national-university/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
